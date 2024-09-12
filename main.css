@@ -10,3 +10,13 @@ body,h1, h2, p, ul, li, a, {
     padding: 0; /* removing the default padding*/
     font-family: Arial, Helvetica, sans-serif; /*setting the default font*/
 }
+body {
+    background-color: #012626; /*dark teal body background color */
+}
+
+h1{
+    color: #038C7F; /*teal text color*/
+    font-size: 2em; /*2x the default font size*/
+    margin-bottom: 1em; /*adding some space below the heading*/
+}
+
